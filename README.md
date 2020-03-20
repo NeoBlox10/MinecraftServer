@@ -9,6 +9,7 @@ Premièrement il faudra télécharger minecraft forge : [Minecraft Forge](https:
 
 Executer le fichier télécharger, cette fenêtre devrait apparaitre : 
 ![N|Solid](https://zupimages.net/up/20/12/nson.png)
+
 Ici selectionnez "**Install client**" puis "**OK**".
 
 Une fois le chargement terminé, votre minecraft forge est pret à être utilisé !
