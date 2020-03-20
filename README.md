@@ -1,6 +1,6 @@
 # Survie Minecraft avec des mods
 
-[![N|Solid](https://www.minecraft.net/content/dam/minecraft/pmp/bees-hero.jpg)]
+![N|Solid](https://www.minecraft.net/content/dam/minecraft/pmp/bees-hero.jpg)
 
 # 1 - Installation de Minecraft Forge
 Minecraft forge est une API permettant d'ajouter des mods sur le jeu. Vous aurez donc besoin de l'installer pour permettre à minecraft d'ajouter des mods directement sur le launcheur officiel.
