@@ -68,5 +68,7 @@ En bas de la configuration cliquez sur "**PLUS D'OPTION**" puis modifier la lign
 
 ![N|Solid](https://zupimages.net/up/20/12/9ye5.png)
 
+**Rappel :** Ce serveur est privé et hebergé uniquement pour notre groupe. Si vous souhaitez inviter d'autre personne merci de demander la permission à Nico ou H.
+
 **Bon jeu !**
 NeoBlox10.
