@@ -54,7 +54,7 @@ Il prendra un peu de temps à se lancer car les mods doivent charger, ne panique
 # 4 - Connexion au serveur
 Rien de plus simple pour se connecter au serveur, il vous suffit d'ajouter un seveur en multijoueur.
 
-Vous pourrez vous connecter grace à cet IP : A venir.
+Vous pourrez vous connecter grace à cet IP : **unistra.mcmine.fr**
 
 # 5 - Allouer plus de RAM au launcher
 
