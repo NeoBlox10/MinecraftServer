@@ -71,4 +71,4 @@ En bas de la configuration cliquez sur "**PLUS D'OPTION**" puis modifier la lign
 **Rappel :** Ce serveur est privé et hebergé uniquement pour notre groupe. Si vous souhaitez inviter d'autre personne merci de demander la permission à Nico ou H.
 
 **Bon jeu !**
-NeoBlox10.
+H.
