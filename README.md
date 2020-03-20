@@ -56,5 +56,17 @@ Rien de plus simple pour se connecter au serveur, il vous suffit d'ajouter un se
 
 Vous pourrez vous connecter grace à cet IP : A venir.
 
+# 5 - Allouer plus de RAM au launcher
+
+Allouer plus de RAM au launcher permet d'éviter les freeze en jeu lorsque vous installez des mods.
+
+Sur votre launcher minecraft rendez vous dans vos configurations puis cliquez sur la version 1.12.2 de forge.
+
+En bas de la configuration cliquez sur "**PLUS D'OPTION**" puis modifier la ligne "**ARGUMENTS JVM**" comme moi :
+
+> Il suffit de remplacer "**Xmx2G**" par "**Xmx4G**".
+
+![N|Solid](https://zupimages.net/up/20/12/9ye5.png)
+
 **Bon jeu !**
 NeoBlox10.
